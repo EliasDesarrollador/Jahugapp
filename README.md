@@ -15,9 +15,10 @@ Interfaz Web
 <br>
 Nivel 1 🕹️🐧
 
-
 <br>
-
+<br>
+<br>
+<br>
 <img width="960" height="1052" alt="image" src="https://github.com/user-attachments/assets/0cbdde24-6056-4ecd-9e0a-eb9cca8816fd" />
 
 
